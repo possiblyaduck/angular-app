@@ -13,7 +13,7 @@ angular.module('app', [
 
 angular.module('app').constant('MONGOLAB_CONFIG', {
   baseUrl: '/databases/',
-  dbName: 'ascrum'
+  dbName: 'groceries'
 });
 
 //TODO: move those messages to a separate module
